@@ -1,2 +1,5 @@
-# tanchik-video.github.io
-demo page
+# hello-world
+
+my first repozitory on GitHub
+
+I love : coffe : pizza: .
