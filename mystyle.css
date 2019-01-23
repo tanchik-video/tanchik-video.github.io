@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Страница</title>
+<meta charset="utf-8">
+<style>
+<body>
+p4
+  {
+  font-size: 25px;
+  color: green;
+  }
+p2
+  {
+  font-size: 30px;
+  color: blue;	  
+  }	
+div
+  {
+  color: red; 
+  padding: 55px;
+  }
+  p3
+  {
+  font-size: 30px;
+  color: yellow;	  
+  }	
+</body>  
+</style>
+</head>
+</html>
